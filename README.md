@@ -1,5 +1,15 @@
-- 👋 Hi, I’m @zhenxiang-shawn
-- 👀 I’m interested in ...
+<!-- <a href="https://github.com/zhenxiang-shawn"><img align="right" src="https://github-readme-stats.vercel.app/api?username=zhenxiang-shawn&show_icons=true&theme=radical"></a>
+<br/>
+<a href="https://github.com/zhenxiang-shawn"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=github_dark&username=anuraghazra&layout=compact"</a>
+ -->
+ 
+<a href="https://github.com/zhenxiang-shawn"><img align="right" src="https://github-readme-stats.cubik65536.top/api?theme=github_dark&username=zhenxiang-shawn&count_private=true&hide=stars&show_icons=true&line_height=24"></a>
+<br/>
+<a href="https://github.com/zhenxiang-shawn"><img align="right" src="https://github-readme-stats.cubik65536.top/api/top-langs/?theme=github_dark&username=zhenxiang-shawn&layout=compact&count_private=true&card_width=445"></a> 
+ 
+## 👋 Hi, I’m Zhenxiang
+A SWE and DS.
+- 👀 I’m interested in Data Science, Algorithm, Deep Learning, etc.
 - 🌱 I’m currently learning CV
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: zhenxiang.shawn@outlook.com
