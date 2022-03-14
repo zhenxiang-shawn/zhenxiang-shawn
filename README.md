@@ -46,6 +46,7 @@
 <p>
   <img src="https://img.shields.io/badge/iTerm2-546E7A?style=for-the-badge&logo=iTerm2&logoColor=F0F0F0" />
   <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=F0F0F0" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 <hr/>
 <!---
