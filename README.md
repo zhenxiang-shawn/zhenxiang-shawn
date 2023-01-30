@@ -10,7 +10,7 @@
 ## 👋 Hi, I’m Zhenxiang
 A SWE and DS.
 - 👀 I’m interested in Data Science, Algorithm, Deep Learning, etc.
-- 🌱 I’m currently learning CV
+- 🌱 I’m currently working @Computer Vision
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: zhenxiang.shawn@outlook.com
 
